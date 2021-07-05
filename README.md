@@ -22,7 +22,7 @@ some_id: uuid
 It might support various column types(uuid, name, random text, id, etc)
 
 # Output
-Output can be json or csv which has the given conditions
+Output can be json or csv which has the given conditions or sql statements
 
 # Requirement
 1. Using Golang
